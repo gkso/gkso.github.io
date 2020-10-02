@@ -23,6 +23,8 @@ Research Interest
 
 News
 ======
+* Sep/2020: Our paper on machine learning based NIDS got accepted to CoNEXT 2020.
+* Jul/2020: Our paper on DNS cache poisoning using side-channels got accepted to CCS 2020.
 * Feb/2020: Presented our SymTCP paper at NDSS 2020.
 * Jan/2020: We released the source code of SymTCP on Github. 
 * Dec/2019: Our paper on measuring Internet performance in China got accepted to SIGMETRICS 2020.
@@ -32,28 +34,31 @@ News
 
 Recent Publications
 ======
-1. **Characterizing Transnational Internet Performance and the Great Bottleneck of China**.
+1. **DNS Cache Poisoning Attack Reloaded: Revolutions with Side Channels**.
+Keyu Man, Zhiyun Qian, Zhongjie Wang, Xiaofeng Zheng, Youjun Huang, Haixin Duan.
+ACM **CCS** 2020.
+2. **Characterizing Transnational Internet Performance and the Great Bottleneck of China**.
 Pengxiong Zhu, Keyu Man, Zhongjie Wang, Zhiyun Qian, Roya Ensafi, J. Alex Halderman, and Haixin Duan.
 ACM **SIGMETRICS** 2020, Boston, Massachusetts, USA.
-2. **SymTCP: Eluding Stateful Deep Packet Inspection with Automated Discrepancy Discovery**.
+3. **SymTCP: Eluding Stateful Deep Packet Inspection with Automated Discrepancy Discovery**.
 Zhongjie Wang, Shitong Zhu, Yue Cao, Zhiyun Qian, Chengyu Song, Srikanth V. Krishnamurthy, Kevin S. Chan, and Tracy D. Braun.
 Network & Distributed System Security Symposium (**NDSS**) 2020, San Diego, California, USA.
-3. **Principled Unearthing of TCP Side Channel Vulnerabilities**.
+4. **Principled Unearthing of TCP Side Channel Vulnerabilities**.
 Yue Cao, Zhongjie Wang, Zhiyun Qian, Chengyu Song, Srikanth V. Krishnamurthy, and Paul Yu.
 26th ACM Conference on Computer and Communications Security (**CCS**) 2019, London, UK.
-4. **ShadowBlock: A Lightweight and Stealthy Adblocking Browser**.
+5. **ShadowBlock: A Lightweight and Stealthy Adblocking Browser**.
 Shitong Zhu, Umar Iqbal, Zhongjie Wang, Zhiyun Qian, Zubair Shafiq, and Weiteng Chen.
 The Web Conference (**WWW**) 2019, San Francisco, California, USA.
-5. **Off-Path TCP Exploits of the Challenge ACK Global Rate Limit**.
+6. **Off-Path TCP Exploits of the Challenge ACK Global Rate Limit**.
 Yue Cao, Zhiyun Qian, Zhongjie Wang, Tuan Dao, Srikanth V. Krishnamurthy, and Lisa M. Marvel.
 IEEE/ACM Transactions on Networking 2018.
-6. **Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship**.
+7. **Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship**.
 Zhongjie Wang, Yue Cao, Zhiyun Qian, Chengyu Song, and Srikanth V. Krishnamurthy.
 ACM Internet Measurement Conference (**IMC**) 2017, London, UK.
-7. **Investigation of a Recent Linux TCP Stack Vulnerability at Scale**.
+8. **Investigation of a Recent Linux TCP Stack Vulnerability at Scale**.
 Alan Quach\*, Zhongjie Wang\*, and Zhiyun Qian (\*co-first author).
 ACM **SIGMETRICS** 2017, Urbana-Champaign, Illinois, USA.
-8. **Off-Path TCP Exploits: Global Rate Limit Considered Dangerous**.
+9. **Off-Path TCP Exploits: Global Rate Limit Considered Dangerous**.
 Yue Cao, Zhiyun Qian, Zhongjie Wang, Tuan Dao, Srikanth V. Krishnamurthy, and Lisa M. Marvel.
 25th **USENIX Security** Symposium 2016, Austin, TX, USA.
   
