@@ -7,7 +7,7 @@ date: 2020-08-08
 venue: 'ACM SIGMETRICS'
 paperurl: ''
 authors: 'Pengxiong Zhu, Keyu Man, Zhongjie Wang, Zhiyun Qian, Roya Ensafi, J. Alex Halderman, and Haixin Duan'
-citation: 'Pengxiong Zhu, Keyu Man, Zhongjie Wang, Zhiyun Qian, Roya Ensafi, J. Alex Halderman, and Haixin Duan. 2019. Characterizing Transnational Internet Performance and the Great Bottleneck of China. In SIGMETRICS ’20: ACM SIGMETRICS, 08–12, 2020, Boston, MA. ACM, New York, NY, USA, 14 pages. https://doi.org/10.1145/1122445.1122456'
+citation: 'Pengxiong Zhu, Keyu Man, Zhongjie Wang, Zhiyun Qian, Roya Ensafi, J. Alex Halderman, and Haixin Duan. Characterizing Transnational Internet Performance and the Great Bottleneck of China. In SIGMETRICS ’20: ACM SIGMETRICS, 08–12, 2020, Boston, MA. ACM, New York, NY, USA, 14 pages. https://doi.org/10.1145/1122445.1122456'
 ---
 Transnational Internet performance is an important indication of
 a country’s level of infrastructure investment, globalization, and
@@ -29,4 +29,5 @@ far-reaching implications for Chinese users’ browsing habits as
 well as for the ability of foreign Internet services to reach Chinese
 customers.
 
+[Download paper here](https://zhongjie.me/files/sigmetrics20_slowdown.pdf)
 
