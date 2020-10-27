@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-05-13-www-shadowblock
 excerpt: ''
 date: 2019-05-13
-venue: 'The Web Conference (formerly WWW conference)'
+venue: 'The Web Conference (formerly WWW conference) 2019'
 paperurl: ''
 authors: 'Shitong Zhu, Umar Iqbal, Zhongjie Wang, Zhiyun Qian, Zubair Shafiq, and Weiteng Chen'
 citation: 'Shitong Zhu, Umar Iqbal, Zhongjie Wang, Zhiyun Qian, Zubair Shafiq, and Weiteng Chen. 2019. ShadowBlock: A Lightweight and Stealthy Adblocking Browser. In The World Wide Web Conference (WWW ’19). Association for Computing Machinery, New York, NY, USA, 2483–2493. DOI:https://doi.org/10.1145/3308558.3313558'
