@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-11-01-imc-censorship
 excerpt: ''
 date: 2017-11-01
-venue: 'ACM Internet Measurement Conference (IMC)'
+venue: 'ACM Internet Measurement Conference (IMC) 2017'
 paperurl: ''
 authors: 'Zhongjie Wang, Yue Cao, Zhiyun Qian, Chengyu Song, and Srikanth V. Krishnamurthy'
 citation: 'Zhongjie Wang, Yue Cao, Zhiyun Qian, Chengyu Song, and Srikanth V. Krishnamurthy. 2017. Your state is not mine: a closer look at evading stateful internet censorship. In Proceedings of the 2017 Internet Measurement Conference (IMC ’17). Association for Computing Machinery, New York, NY, USA, 114–127. DOI:https://doi.org/10.1145/3131365.3131374'

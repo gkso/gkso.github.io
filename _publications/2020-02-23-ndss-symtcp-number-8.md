@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-02-23-ndss-symtcp
 excerpt: ''
 date: 2020-02-23
-venue: 'Network & Distributed System Security Symposium (NDSS)'
+venue: 'Network & Distributed System Security Symposium (NDSS) 2020'
 paperurl: ''
 authors: 'Zhongjie Wang, Shitong Zhu, Yue Cao, Zhiyun Qian, Chengyu Song, Srikanth V. Krishnamurthy, Kevin S. Chan, and Tracy D. Braun'
 citation: 'Zhongjie Wang, Shitong Zhu, Yue Cao, Zhiyun Qian, Chengyu Song, Srikanth V. Krishnamurthy, Kevin S. Chan, and Tracy D. Braun. 2020. SymTCP: Eluding Stateful Deep Packet Inspection with Automated Discrepancy Discovery. In Network and Distributed Systems Security (NDSS) Symposium 2020, 23-26 February 2020, San Diego, CA, USA. https://dx.doi.org/10.14722/ndss.2020.24083'

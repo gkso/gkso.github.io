@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-11-11-ccs-dns-poisoning
 excerpt: ''
 date: 2020-11-11
-venue: 'ACM CCS'
+venue: 'ACM CCS 2020'
 paperurl: ''
 authors: 'Keyu Man, Zhiyun Qian, Zhongjie Wang, Xiaofeng Zheng, Youjun Huang, Haixin Duan'
 citation: ''

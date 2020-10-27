@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-06-05-sigmetrics-cack
 excerpt: ''
 date: 2017-06-05
-venue: 'ACM SIGMETRICS'
+venue: 'ACM SIGMETRICS 2017'
 paperurl: ''
 authors: 'Alan Quach*, Zhongjie Wang*, and Zhiyun Qian (*co-first author)'
 citation: 'Alan Quach, Zhongjie Wang, and Zhiyun Qian. 2017. Investigation of the 2016 Linux TCP Stack Vulnerability at Scale. Proc. ACM Meas. Anal. Comput. Syst. 1, 1, Article 4 (June 2017), 19 pages. DOI:https://doi.org/10.1145/3084441'
