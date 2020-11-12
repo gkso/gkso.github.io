@@ -23,6 +23,7 @@ Research Interest
 
 News
 ======
+* Nov/2020: Our paper on DNS cache poisoning received Distinguished Paper Award at CCS 2020.
 * Sep/2020: Our paper on machine learning based NIDS got accepted to CoNEXT 2020.
 * Jul/2020: Our paper on DNS cache poisoning using side-channels got accepted to CCS 2020.
 * Feb/2020: Presented our SymTCP paper at NDSS 2020.
