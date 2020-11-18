@@ -37,10 +37,10 @@ Recent Publications
 ======
 1. **You Do (Not) Belong Here: Detecting DPI Evasion Attacks with Context Learning**.
 Shitong Zhu, Shasha Li, Zhongjie Wang, Xun Chen, Zhiyun Qian, Srikanth V. Krishnamurthy, Kevin S. Chan, Ananthram Swami.
-16th International Conference on emerging Networking EXperiments and Technologies (**CoNext**) 2020.
+16th International Conference on emerging Networking EXperiments and Technologies (**CoNext**) 2020, Barcelona, Spain.
 2. **DNS Cache Poisoning Attack Reloaded: Revolutions with Side Channels**.
 Keyu Man, Zhiyun Qian, Zhongjie Wang, Xiaofeng Zheng, Youjun Huang, Haixin Duan.
-ACM **CCS** 2020. **Distinguished Paper Award**
+ACM **CCS** 2020, Virtual Event, USA. **Distinguished Paper Award**
 3. **Characterizing Transnational Internet Performance and the Great Bottleneck of China**.
 Pengxiong Zhu, Keyu Man, Zhongjie Wang, Zhiyun Qian, Roya Ensafi, J. Alex Halderman, and Haixin Duan.
 ACM **SIGMETRICS** 2020, Boston, Massachusetts, USA.
