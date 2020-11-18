@@ -1,5 +1,5 @@
 ---
-title: "Investigation of a Recent Linux TCP Stack Vulnerability at Scale"
+title: "Investigation of the 2016 Linux TCP Stack Vulnerability at Scale"
 collection: publications
 permalink: /publication/2017-06-05-sigmetrics-cack
 excerpt: ''
