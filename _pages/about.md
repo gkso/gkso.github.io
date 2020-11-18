@@ -59,7 +59,7 @@ IEEE/ACM Transactions on Networking 2018.
 8. **Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship**.
 Zhongjie Wang, Yue Cao, Zhiyun Qian, Chengyu Song, and Srikanth V. Krishnamurthy.
 ACM Internet Measurement Conference (**IMC**) 2017, London, UK.
-9. **Investigation of a Recent Linux TCP Stack Vulnerability at Scale**.
+9. **Investigation of the 2016 Linux TCP Stack Vulnerability at Scale**.
 Alan Quach\*, Zhongjie Wang\*, and Zhiyun Qian (\*co-first author).
 ACM **SIGMETRICS** 2017, Urbana-Champaign, Illinois, USA.
 10. **Off-Path TCP Exploits: Global Rate Limit Considered Dangerous**.
