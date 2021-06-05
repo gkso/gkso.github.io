@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhongjie Wang is a PhD student in the Computer Science program at University of California, Riverside, advised by Professor [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/) and Professor [Srikanth V. Krishnamurthy](https://www.cs.ucr.edu/~krish/). He earned his bechelor degree from Beijing University of Posts and Telecommunications and master degree from Peking University. His research interest lies in Network Security, Program Analysis, Formal Verification, Censorship and Privacy. He is interested in developing automated tools that can enhance software security and discover vulnerabilities.
+Zhongjie Wang is a PhD candidate in the Computer Science program at University of California, Riverside, advised by Professor [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/) and Professor [Srikanth V. Krishnamurthy](https://www.cs.ucr.edu/~krish/). He earned his bechelor degree from Beijing University of Posts and Telecommunications and master degree from Peking University. His research interest lies in Network Security, Program Analysis, Formal Verification, Censorship and Privacy. He is interested in developing automated tools that can enhance software security and discover vulnerabilities.
 
 Previously, he worked as a software testing engineer at NetEase Games. He also interned at several companies and institutions, such as Microsoft Research Asia, Morgan Stanley, Samsung Research America and International Computer Science Institute (ICSI) at Berkeley. 
 
@@ -23,6 +23,7 @@ Research Interest
 
 News
 ======
+* Jun/2021: Joined Baidu Security X-Lab as a security scientist.
 * Nov/2020: Our paper on DNS cache poisoning received Distinguished Paper Award at CCS 2020.
 * Sep/2020: Our paper on machine learning based NIDS got accepted to CoNEXT 2020.
 * Jul/2020: Our paper on DNS cache poisoning using side-channels got accepted to CCS 2020.
