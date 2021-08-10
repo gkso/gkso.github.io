@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhongjie Wang is a Security Scientist at the Baidu USA Research Lab. Before joining Baidu, he earned his PhD in Computer Science at University of California, Riverside, advised by Professor [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/) and Professor [Srikanth V. Krishnamurthy](https://www.cs.ucr.edu/~krish/). He earned his bechelor degree from Beijing University of Posts and Telecommunications and master degree from Peking University. His research interest lies in Network Security, Program Analysis, Formal Verification, Censorship and Privacy. He is interested in developing automated tools that can enhance software security and discover vulnerabilities.
+Zhongjie Wang is a Security Scientist at Baidu USA Research Lab. Before joining Baidu, he earned his PhD in Computer Science at University of California, Riverside, advised by Professor [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/) and Professor [Srikanth V. Krishnamurthy](https://www.cs.ucr.edu/~krish/). He earned his bechelor degree from Beijing University of Posts and Telecommunications and master degree from Peking University. His research interest lies in Network Security, Program Analysis, Formal Verification, Censorship and Privacy. He is interested in developing automated tools that can enhance software security and discover vulnerabilities.
 
 Previously, he worked as a software testing engineer at NetEase Games. He also interned at several companies and institutions, such as Microsoft Research Asia, Morgan Stanley, Samsung Research America and International Computer Science Institute (ICSI) at Berkeley. 
 
