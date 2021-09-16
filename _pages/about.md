@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhongjie Wang is a Security Scientist at Baidu USA Research Lab. Before joining Baidu, he earned his PhD in Computer Science at University of California, Riverside, advised by Professor [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/) and Professor [Srikanth V. Krishnamurthy](https://www.cs.ucr.edu/~krish/). He earned his bechelor degree from Beijing University of Posts and Telecommunications and master degree from Peking University. His research interest lies in Network Security, Program Analysis, Formal Verification, Censorship and Privacy. He is interested in developing automated tools that can enhance software security and discover vulnerabilities.
+Zhongjie Wang is a Security Scientist at Baidu USA. Before joining Baidu, he earned his PhD in Computer Science at University of California, Riverside, advised by Professor [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/) and Professor [Srikanth V. Krishnamurthy](https://www.cs.ucr.edu/~krish/). He earned his bechelor degree from Beijing University of Posts and Telecommunications and master degree from Peking University. His research interest lies in Network Security, Program Analysis, Formal Verification, Censorship and Privacy. He is interested in developing automated tools that can enhance software security and discover vulnerabilities.
 
 Previously, he worked as a software testing engineer at NetEase Games. He also interned at several companies and institutions, such as Microsoft Research Asia, Morgan Stanley, Samsung Research America and International Computer Science Institute (ICSI) at Berkeley. 
 
@@ -21,7 +21,9 @@ Research Interest
 
 News
 ======
-* Jun/2021: Joined Baidu Security X-Lab as a security scientist.
+* Aug/2021: Our paper on eluding ML-based Ad blockers got accepted to ACSAC 2021.
+* Aug/2021: Our paper on robust NIDS and discrepancy discovery got accepted to CCS 2021.
+* Jun/2021: Joined Baidu Security X-Lab as a Security Scientist.
 * Nov/2020: Our paper on DNS cache poisoning received Distinguished Paper Award at CCS 2020.
 * Sep/2020: Our paper on machine learning based NIDS got accepted to CoNEXT 2020.
 * Jul/2020: Our paper on DNS cache poisoning using side-channels got accepted to CCS 2020.
@@ -34,34 +36,40 @@ News
 
 Recent Publications
 ======
-1. **You Do (Not) Belong Here: Detecting DPI Evasion Attacks with Context Learning**.
+1. **Eluding ML-based Adblockers With Actionable Adversarial Examples**.
+Shitong Zhu, Zhongjie Wang, Xun Chen, Shasha Li, Keyu Man, Umar Iqbal, Zhiyun Qian, Kevin Chan, Srikanth V. Krishnamurthy, Zubair Shafiq, Yu Hao, Guoren Li, Zheng Zhang, Xiaochen Zou.
+37th Annual Computer Security Applications Conference (**ACSAC**) 2021, Virtual Conference.
+2. **Themis: Ambiguity-Aware Network Intrusion Detection based on Symbolic Model Comparison**.
+Zhongjie Wang, Shitong Zhu, Keyu Man, Pengxiong Zhu, Yu Hao, Zhiyun Qian, Srikanth V. Krishnamurthy, Tom La Porta, Michael J. De Lucia.
+28th ACM Conference on Computer and Communications Security (**CCS**) 2021, Virtual Conference.
+3. **You Do (Not) Belong Here: Detecting DPI Evasion Attacks with Context Learning**.
 Shitong Zhu, Shasha Li, Zhongjie Wang, Xun Chen, Zhiyun Qian, Srikanth V. Krishnamurthy, Kevin S. Chan, Ananthram Swami.
 16th International Conference on emerging Networking EXperiments and Technologies (**CoNext**) 2020, Barcelona, Spain.
-2. **DNS Cache Poisoning Attack Reloaded: Revolutions with Side Channels**.
+4. **DNS Cache Poisoning Attack Reloaded: Revolutions with Side Channels**.
 Keyu Man, Zhiyun Qian, Zhongjie Wang, Xiaofeng Zheng, Youjun Huang, Haixin Duan.
 ACM **CCS** 2020, Virtual Event, USA. **Distinguished Paper Award**
-3. **Characterizing Transnational Internet Performance and the Great Bottleneck of China**.
+5. **Characterizing Transnational Internet Performance and the Great Bottleneck of China**.
 Pengxiong Zhu, Keyu Man, Zhongjie Wang, Zhiyun Qian, Roya Ensafi, J. Alex Halderman, and Haixin Duan.
 ACM **SIGMETRICS** 2020, Boston, Massachusetts, USA.
-4. **SymTCP: Eluding Stateful Deep Packet Inspection with Automated Discrepancy Discovery**.
+6. **SymTCP: Eluding Stateful Deep Packet Inspection with Automated Discrepancy Discovery**.
 Zhongjie Wang, Shitong Zhu, Yue Cao, Zhiyun Qian, Chengyu Song, Srikanth V. Krishnamurthy, Kevin S. Chan, and Tracy D. Braun.
 Network & Distributed System Security Symposium (**NDSS**) 2020, San Diego, California, USA.
-5. **Principled Unearthing of TCP Side Channel Vulnerabilities**.
+7. **Principled Unearthing of TCP Side Channel Vulnerabilities**.
 Yue Cao, Zhongjie Wang, Zhiyun Qian, Chengyu Song, Srikanth V. Krishnamurthy, and Paul Yu.
 26th ACM Conference on Computer and Communications Security (**CCS**) 2019, London, UK.
-6. **ShadowBlock: A Lightweight and Stealthy Adblocking Browser**.
+8. **ShadowBlock: A Lightweight and Stealthy Adblocking Browser**.
 Shitong Zhu, Umar Iqbal, Zhongjie Wang, Zhiyun Qian, Zubair Shafiq, and Weiteng Chen.
 The Web Conference (**WWW**) 2019, San Francisco, California, USA.
-7. **Off-Path TCP Exploits of the Challenge ACK Global Rate Limit**.
+9. **Off-Path TCP Exploits of the Challenge ACK Global Rate Limit**.
 Yue Cao, Zhiyun Qian, Zhongjie Wang, Tuan Dao, Srikanth V. Krishnamurthy, and Lisa M. Marvel.
 IEEE/ACM Transactions on Networking 2018.
-8. **Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship**.
+10. **Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship**.
 Zhongjie Wang, Yue Cao, Zhiyun Qian, Chengyu Song, and Srikanth V. Krishnamurthy.
 ACM Internet Measurement Conference (**IMC**) 2017, London, UK.
-9. **Investigation of the 2016 Linux TCP Stack Vulnerability at Scale**.
+11. **Investigation of the 2016 Linux TCP Stack Vulnerability at Scale**.
 Alan Quach\*, Zhongjie Wang\*, and Zhiyun Qian (\*co-first author).
 ACM **SIGMETRICS** 2017, Urbana-Champaign, Illinois, USA.
-10. **Off-Path TCP Exploits: Global Rate Limit Considered Dangerous**.
+12. **Off-Path TCP Exploits: Global Rate Limit Considered Dangerous**.
 Yue Cao, Zhiyun Qian, Zhongjie Wang, Tuan Dao, Srikanth V. Krishnamurthy, and Lisa M. Marvel.
 25th **USENIX Security** Symposium 2016, Austin, TX, USA.
   
