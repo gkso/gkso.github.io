@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhongjie Wang"
 title_separator          : "-"
 name                     : &name "Zhongjie Wang"
-description              : &description "Ph.D. candidate at University of California, Riverside"
+description              : &description "Security Scientist at Baidu Research"
 url                      : https://zhongjie.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "homepage.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhongjie Wang"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. candidate at University of California, Riverside, expert in all things network and security related"
+  bio              : "Security Scientist at Baidu Research"
   location         : "California"
   employer         :
   pubmed           : 
