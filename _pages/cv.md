@@ -63,5 +63,5 @@ Talks
   {% endfor %}</ul>
 
 
-For a PDF version, click [here](https://zhongjie.me/files/CV_ZhongjieWang_2020.pdf).
+For a PDF version, click [here](https://zhongjie.me/files/CV_ZhongjieWang_2022.pdf).
 
